@@ -88,6 +88,7 @@
 * [Easily create dashboards in conditional formatting in a grid visualization](https://youtu.be/3z73Pw5kZ9o)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
 * [How to create and reuse custom palettes (11.1.1+)](https://youtu.be/puG9Tqe0_HM)
+* [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/gf4yT28pBAs)
 * [Analyze what-if scenarios using machine learning (11.1.7+)](https://youtu.be/cr8Q_IC6x_g)
 
 ## Stories (new)
