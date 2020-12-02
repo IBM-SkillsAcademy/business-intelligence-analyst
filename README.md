@@ -82,7 +82,7 @@
 ### Dashboards
 * [Cognos Analytics: Dashboarding](https://www.youtube.com/playlist?list=PLfq0ST5X3p-QXFhdezTPEsP59EvdIAR4A) (list)
 * [IBM Cognos Analytics 11.1.4: Getting Started with Dashboards](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cognos-analytics-1114-getting-started-dashboards)
-* [How to create your first dashboard (11.1.0+)](https://youtu.be/3_4VPE9_n-A)
+* [How to create your first dashboard (11.1.7)](https://youtu.be/NDSSfM46fTM)
 * [Change data format to millions in a visualization (11.0.4+)](https://youtu.be/bA_d0PN_6YA)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
 * [Easily create dashboards in conditional formatting in a grid visualization](https://youtu.be/3z73Pw5kZ9o)
