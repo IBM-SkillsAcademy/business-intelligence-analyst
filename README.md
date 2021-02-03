@@ -5,10 +5,7 @@
 * [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
 * [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
-* [How to find saved content (11.0.0)](https://youtu.be/hPQmqDB130I)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
-* [How to upload your own data (11.1.x)](https://youtu.be/3p4aMzqIHrY)
-* [Intent-driven modeling to infer relationships between tables (11.0.4+)](https://youtu.be/7FgSzNCqgK4)
 * [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
 ### Introduction to IBM Cognos Analytics - Reporting
 * [How to create your first report (11.1.0+)](https://youtu.be/LhFw1D-gzas)
