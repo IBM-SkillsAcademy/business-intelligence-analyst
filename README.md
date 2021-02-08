@@ -6,7 +6,6 @@
 * [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
-* [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
 ### Introduction to IBM Cognos Analytics - Reporting
 * [How to create your first report (11.1.0+)](https://youtu.be/LhFw1D-gzas)
 * [IBM Cognos Analytics Create a Professional Report](https://youtu.be/xOhgYzQk2DE)
@@ -54,6 +53,10 @@
 * How to add clickable images to an Active Report: [part 1](https://youtu.be/sKELC54ScWE), [part 2](https://youtu.be/jeSOoI6tb4U)
 * [How to add a popup window to an Active Report (11.0.0)](https://youtu.be/akteAHYUaH8)
 
+## B6290: IBM Cognos Analytics: Modeling with Data Modules (V11.1.x)
+* [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
+* [How to create multi-fact and multi-grain data modules](https://youtu.be/Ol1XFcQIYsg)
+
 ## B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
 * [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/BvYAX-Vv2dI)
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
@@ -64,7 +67,7 @@
 * [IBM Big SQL: Analyze HDFS data with IBM Cognos Analytics](https://youtu.be/MBQZp3sqVfk)
 * [How to upgrade IBM Cognos Analytics](https://youtu.be/OntAgtttXuY)
 * [Cognos Toolkit How-to: Use Inventory to help plan, optimize and clean up your Cognos upgrade](https://youtu.be/3w7JNCkxTto)
-* [How to configure audit reporting](https://youtu.be/_6OzY8yWEvE)
+* [How to configure audit reporting](https://youtu.be/ljXtyusIzhE)
 * [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
 * [Manage Security in Cognos Analytics](https://youtu.be/k26ABz0QaK8)
 * [IBM Cognos Analytics and IBM Planning Analytics integration with CAM Security](https://youtu.be/3EMSoQEpKAo)
