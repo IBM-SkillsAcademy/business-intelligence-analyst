@@ -58,7 +58,7 @@
 * [How to create multi-fact and multi-grain data modules](https://youtu.be/Ol1XFcQIYsg)
 
 ## B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
-* [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/BvYAX-Vv2dI)
+* [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
 
 ## B6255G: IBM Cognos Analytics - Enterprise Administration (V11.1.x)
@@ -88,8 +88,9 @@
 * [Easily create dashboards in conditional formatting in a grid visualization](https://youtu.be/3z73Pw5kZ9o)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
 * [How to create and reuse custom palettes (11.1.1+)](https://youtu.be/puG9Tqe0_HM)
-* [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/gf4yT28pBAs)
+* [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
 * [Analyze what-if scenarios using machine learning (11.1.7+)](https://youtu.be/cr8Q_IC6x_g)
+* [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
 
 ## Stories (new)
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
