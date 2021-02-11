@@ -3,11 +3,14 @@
 ## B6258 - IBM Cognos Analytics Author Reports Fundamentals (v11.1)
 ### Appendix A) Introduction to IBM Cognos Analytics
 * [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
+* [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
+* [A New User Experience for IBM Cognos Analytics](https://youtu.be/S6GBNSl5otQ)
 * [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
 ### Introduction to IBM Cognos Analytics - Reporting
-* [How to create your first report (11.1.0+)](https://youtu.be/LhFw1D-gzas)
+* [How to Create a Report (Basic) in IBM Cognos Analytics](https://youtu.be/ll6UtgTtJV8)
+* [How to create your first report (11.1.0+)](https://youtu.be/WinTX6DnCmA)
 * [IBM Cognos Analytics Create a Professional Report](https://youtu.be/xOhgYzQk2DE)
 * [Use multiple Cognos Analytics packages in a single report](https://youtu.be/CPzxBT962-A)
 * [Execute a Cognos Analytics report with interactivity](https://youtu.be/0aog59gKTqM)
@@ -25,6 +28,7 @@
 * [Global parameters (11.0.7+)](https://youtu.be/76YVHEzr8dA)
 ### Extend Reports Using Calculations
 ### Use Additional Report Building Techniques
+* [How to create a professional report with Cognos Analytics](https://youtu.be/8hP_AtPnLyE)
 ### Customize Reports with Conditional Formatting
 ### Drill-Through Definitions
 ### Enhance Report Layout
@@ -55,6 +59,7 @@
 
 ## B6290: IBM Cognos Analytics: Modeling with Data Modules (V11.1.x)
 * [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
+* [How to prepare data with Cognos Analytics](https://youtu.be/3gfGAWta9NI)
 * [How to create multi-fact and multi-grain data modules](https://youtu.be/Ol1XFcQIYsg)
 
 ## B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
@@ -62,24 +67,30 @@
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
 
 ## B6255G: IBM Cognos Analytics - Enterprise Administration (V11.1.x)
+* [Migrate Cognos Analytics Reports](https://youtu.be/0Yyl2HSAjkw)
 * [How to add a new data server connection (11.0.6+)](https://youtu.be/wAdJBhPONLI)
 * [How to add a data server to connect to a MS SQL Server database (11.0.0 - 11.0.5)](https://youtu.be/7P-kKDmG1BA)
+* [How to Create the Cognos Analytics Licensed](https://youtu.be/vz1QQp6erR4)
 * [IBM Big SQL: Analyze HDFS data with IBM Cognos Analytics](https://youtu.be/MBQZp3sqVfk)
-* [How to upgrade IBM Cognos Analytics](https://youtu.be/OntAgtttXuY)
+* [How to Upgrade Your Version of Cognos Analytics](https://youtu.be/stsD0WRpPQg)
 * [Cognos Toolkit How-to: Use Inventory to help plan, optimize and clean up your Cognos upgrade](https://youtu.be/3w7JNCkxTto)
 * [How to configure audit reporting](https://youtu.be/ljXtyusIzhE)
-* [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
+* [How to set up content archival with Cognos Analytics & FileNet](https://youtu.be/h5rzgNsPK68)
 * [Manage Security in Cognos Analytics](https://youtu.be/k26ABz0QaK8)
+* [How to Create Themes and Extensions](https://youtu.be/1yzgM_-Bf-4)
 * [IBM Cognos Analytics and IBM Planning Analytics integration with CAM Security](https://youtu.be/3EMSoQEpKAo)
 * [Analyze logs with IBM Cognos Dynamic Query Analyzer](https://youtu.be/K3xfP5g6O08)
 * [How to save report outputs to Box](https://youtu.be/JkG2-VV-2zg)
 * [IBM Cognos Toolkit GitHub Integration](https://youtu.be/r0yVU9MNW_I)
 * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/NrDVw16vXQI)
+* [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
 
 ## B6289G: IBM Cognos Analytics: Dashboard Essentials (V11.1.x)
 ### Explorations
+* [IBM Cognos Analytics Data Exploration](https://youtu.be/3oMsV85oZ3E)
 * [How to create an exploration (11.1.x)](https://youtu.be/XkOkje0tXgI)
 ### Dashboards
+* [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
 * [Cognos Analytics: Dashboarding](https://www.youtube.com/playlist?list=PLfq0ST5X3p-QXFhdezTPEsP59EvdIAR4A) (list)
 * [IBM Cognos Analytics 11.1.4: Getting Started with Dashboards](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cognos-analytics-1114-getting-started-dashboards)
 * [How to create your first dashboard (11.1.7)](https://youtu.be/NDSSfM46fTM)
@@ -94,7 +105,7 @@
 
 ## Stories (new)
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
-* [How to Create a Story](https://youtu.be/dZ3neMHycQc)
+* [How to Create a Story](https://youtu.be/TOvX-agSQGA)
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
