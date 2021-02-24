@@ -6,6 +6,7 @@
 * [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
 * [A New User Experience for IBM Cognos Analytics](https://youtu.be/S6GBNSl5otQ)
 * [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
+* [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
 ### Introduction to IBM Cognos Analytics - Reporting
