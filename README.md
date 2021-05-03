@@ -18,16 +18,10 @@
 * [How to create an exploration (11.1.x)](https://youtu.be/XkOkje0tXgI)
 ### Dashboards
 * [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
-* [Cognos Analytics: Dashboarding](https://www.youtube.com/playlist?list=PLfq0ST5X3p-QXFhdezTPEsP59EvdIAR4A) (list)
-* [IBM Cognos Analytics 11.1.4: Getting Started with Dashboards](https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cognos-analytics-1114-getting-started-dashboards)
-* [How to create your first dashboard (11.1.7)](https://youtu.be/NDSSfM46fTM)
-* [Change data format to millions in a visualization (11.0.4+)](https://youtu.be/bA_d0PN_6YA)
+* [How to create your first dashboard (11.1.7)](https://youtu.be/ER5uydnX_Cc)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
-* [Easily create dashboards in conditional formatting in a grid visualization](https://youtu.be/3z73Pw5kZ9o)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
-* [How to create and reuse custom palettes (11.1.1+)](https://youtu.be/puG9Tqe0_HM)
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
-* [Analyze what-if scenarios using machine learning (11.1.7+)](https://youtu.be/cr8Q_IC6x_g)
 * [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 
