@@ -7,6 +7,7 @@
 * [How to prepare data with Cognos Analytics](https://youtu.be/3gfGAWta9NI)
 * [How to create multi-fact and multi-grain data modules](https://youtu.be/Ol1XFcQIYsg)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
+* [Security filters in data modules](https://youtu.be/M4jtgf3kAZk)
 
 ## B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
 * [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
