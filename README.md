@@ -1,6 +1,24 @@
 # Cognos Analytics Videos and Tutorials
+* [IBM Cognos Analytics 11.2: Welcome to the new Cognos Experience](https://youtu.be/st63H9qGE2k)
 
-## B6290: IBM Cognos Analytics: Modeling with Data Modules (V11.1.x)
+### Dashboards
+* [IBM Cognos Analytics 11.2: Interactive Dashboards Overview][(https://youtu.be/SyMS0IhCqwM)
+* [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
+* [How to create your first dashboard (11.1.7)](https://youtu.be/ER5uydnX_Cc)
+* [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
+* [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
+* [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
+* [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
+* [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
+
+### Explorations
+* [IBM Cognos Analytics 11.2: Data Exploration Overview](https://youtu.be/jL5eyGSGrCo)
+* [IBM Cognos Analytics Data Exploration](https://youtu.be/3oMsV85oZ3E)
+* [How to create an exploration (11.1.x)](https://youtu.be/XkOkje0tXgI)
+
+## Metadata modeling
+### B6290: IBM Cognos Analytics: Modeling with Data Modules (V11.1.x)
+* [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
 * [How to upload your own data (11.1.x)](https://youtu.be/rp3-9WCcj9o)
 * [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
@@ -9,22 +27,12 @@
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
 * [Security filters in data modules](https://youtu.be/M4jtgf3kAZk)
 
+## IBM Cognos Analytics for Mobile
+* [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
+
 ## B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
 * [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
-
-## B6289G: IBM Cognos Analytics: Dashboard Essentials (V11.1.x)
-### Explorations
-* [IBM Cognos Analytics Data Exploration](https://youtu.be/3oMsV85oZ3E)
-* [How to create an exploration (11.1.x)](https://youtu.be/XkOkje0tXgI)
-### Dashboards
-* [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
-* [How to create your first dashboard (11.1.7)](https://youtu.be/ER5uydnX_Cc)
-* [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
-* [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
-* [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
-* [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
-* [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 
 ## Stories
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
@@ -41,6 +49,7 @@
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
 
 ### Introduction to IBM Cognos Analytics - Reporting
+* [IBM Cognos Analytics 11.2:  Reporting Overview](https://youtu.be/ZwDiBKjUxeE)
 * [How to Create a Report (Basic) in IBM Cognos Analytics](https://youtu.be/ll6UtgTtJV8)
 * [How to create your first report (11.1.0+)](https://youtu.be/WinTX6DnCmA)
 * [IBM Cognos Analytics Create a Professional Report](https://youtu.be/xOhgYzQk2DE)
