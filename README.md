@@ -1,6 +1,15 @@
 # Cognos Analytics Videos and Tutorials
 * [IBM Cognos Analytics 11.2: Welcome to the new Cognos Experience](https://youtu.be/st63H9qGE2k)
 
+### Introduction to IBM Cognos Analytics
+* [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
+* [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
+* [A New User Experience for IBM Cognos Analytics](https://youtu.be/S6GBNSl5otQ)
+* [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
+* [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
+* [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
+* [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
+
 ### Dashboards
 * [IBM Cognos Analytics 11.2: Interactive Dashboards Overview][(https://youtu.be/SyMS0IhCqwM)
 * [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
@@ -14,9 +23,13 @@
 ### Explorations
 * [IBM Cognos Analytics 11.2: Data Exploration Overview](https://youtu.be/jL5eyGSGrCo)
 * [IBM Cognos Analytics Data Exploration](https://youtu.be/3oMsV85oZ3E)
-* [How to create an exploration (11.1.x)](https://youtu.be/XkOkje0tXgI)
+* [How to create an exploration (11.1.x)](https://youtu.be/N6XgAbWu-D0)
 
 ## Metadata modeling
+### B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
+* [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
+* IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
+
 ### B6290: IBM Cognos Analytics: Modeling with Data Modules (V11.1.x)
 * [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
@@ -30,24 +43,12 @@
 ## IBM Cognos Analytics for Mobile
 * [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
 
-## B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
-* [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
-* IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
-
 ## Stories
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
 * [How to Create a Story](https://youtu.be/TOvX-agSQGA)
 
+## Reporting
 ## B6258 - IBM Cognos Analytics Author Reports Fundamentals (v11.1)
-### Appendix A) Introduction to IBM Cognos Analytics
-* [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
-* [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
-* [A New User Experience for IBM Cognos Analytics](https://youtu.be/S6GBNSl5otQ)
-* [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
-* [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
-* [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
-* [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
-
 ### Introduction to IBM Cognos Analytics - Reporting
 * [IBM Cognos Analytics 11.2:  Reporting Overview](https://youtu.be/ZwDiBKjUxeE)
 * [How to Create a Report (Basic) in IBM Cognos Analytics](https://youtu.be/ll6UtgTtJV8)
