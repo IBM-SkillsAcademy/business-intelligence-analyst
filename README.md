@@ -11,7 +11,7 @@
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
 
 ### Dashboards
-* [IBM Cognos Analytics 11.2: Interactive Dashboards Overview][(https://youtu.be/SyMS0IhCqwM)
+* [IBM Cognos Analytics 11.2: Interactive Dashboards Overview](https://youtu.be/SyMS0IhCqwM)
 * [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
 * [How to create your first dashboard (11.1.7)](https://youtu.be/ER5uydnX_Cc)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
