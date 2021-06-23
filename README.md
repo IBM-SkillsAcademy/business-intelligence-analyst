@@ -52,7 +52,7 @@
 ### Introduction to IBM Cognos Analytics - Reporting
 * [IBM Cognos Analytics 11.2:  Reporting Overview](https://youtu.be/ZwDiBKjUxeE)
 * [How to Create a Report (Basic) in IBM Cognos Analytics](https://youtu.be/ll6UtgTtJV8)
-* [How to create your first report (11.1.0+)](https://youtu.be/WinTX6DnCmA)
+* [How to create your first report (11.2.0+)](https://youtu.be/6vsGVcXKs-o)
 * [IBM Cognos Analytics Create a Professional Report](https://youtu.be/xOhgYzQk2DE)
 * [Use multiple Cognos Analytics packages in a single report](https://youtu.be/CPzxBT962-A)
 * [Execute a Cognos Analytics report with interactivity](https://youtu.be/0aog59gKTqM)
