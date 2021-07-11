@@ -118,7 +118,13 @@
 * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/NrDVw16vXQI)
 * [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
 * [Cognos Notebooks](https://youtu.be/1qagt0j1zws)
+* Cognos Notebooks installation:
+  * [Part 1: Fresh install of Jupyter Server](https://youtu.be/OEpT36ohFW0)
+  * [Part 2: Securing the Jupyter Server](https://youtu.be/moc8S3rx6og)
+  * [Part 3: Adding Python Packages](https://youtu.be/JqQUdDFwj1E)
+  * [Part 4: Upgrading to the latest Jupyter Server](https://youtu.be/EnJuAwjQOSk)
+  * [Part 5: Connecting a Notebooks server to IBM Cognos Analytics](https://youtu.be/llBuQf7ITWg)
 
 ## More Resources
-* [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics) on [IBM Support and Training](https://www.youtube.com/c/IBMSupportTV)
-* [IBM Cognos Analytics](https://www.youtube.com/playlist?list=PL_4RxtD-BL5sCbLma4TPNg5rW4jl5YcPj)
+* [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
+* [IBM Cognos Analytics](https://www.youtube.com/playlist?list=PL_4RxtD-BL5sCbLma4TPNg5rW4jl5YcPj) on [IBM Support and Training](https://www.youtube.com/c/IBMSupportTV)
