@@ -115,7 +115,6 @@
 * [Analyze logs with IBM Cognos Dynamic Query Analyzer](https://youtu.be/K3xfP5g6O08)
 * [How to save report outputs to Box](https://youtu.be/JkG2-VV-2zg)
 * [IBM Cognos Toolkit GitHub Integration](https://youtu.be/r0yVU9MNW_I)
-* [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/NrDVw16vXQI)
 * [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
 * [Cognos Notebooks](https://youtu.be/1qagt0j1zws)
 * Cognos Notebooks installation:
@@ -124,6 +123,7 @@
   * [Part 3: Adding Python Packages](https://youtu.be/JqQUdDFwj1E)
   * [Part 4: Upgrading to the latest Jupyter Server](https://youtu.be/EnJuAwjQOSk)
   * [Part 5: Connecting a Notebooks server to IBM Cognos Analytics](https://youtu.be/llBuQf7ITWg)
+  * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/yX2KkBsMgnk)
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
