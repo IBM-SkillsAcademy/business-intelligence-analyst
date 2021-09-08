@@ -1,5 +1,6 @@
 # Cognos Analytics Videos and Tutorials
 * [IBM Cognos Analytics 11.2: Welcome to the new Cognos Experience](https://youtu.be/st63H9qGE2k)
+* [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 
 ### Introduction to IBM Cognos Analytics
 * [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
