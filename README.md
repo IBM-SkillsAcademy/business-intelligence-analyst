@@ -27,19 +27,20 @@
 * [How to create an exploration (11.1.x)](https://youtu.be/N6XgAbWu-D0)
 
 ## Metadata modeling
-### B6252: IBM Cognos Framework Manager: Design Metadata Models (v11.1.x)
-* [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
-* IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
-
-### B6290: IBM Cognos Analytics: Modeling with Data Modules (V11.1.x)
+### Modeling with Data Modules
 * [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
+* [Data Preparation and Modeling](https://youtu.be/oVMGtUfMMaA)
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
-* [How to upload your own data (11.1.x)](https://youtu.be/rp3-9WCcj9o)
+* [How to upload your own data (11.2.0)](https://youtu.be/yicczYzxkx0)
 * [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
 * [How to prepare data with Cognos Analytics](https://youtu.be/3gfGAWta9NI)
 * [How to create multi-fact and multi-grain data modules](https://youtu.be/Ol1XFcQIYsg)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
 * [Security filters in data modules](https://youtu.be/M4jtgf3kAZk)
+
+### IBM Cognos Framework Manager: Design Metadata Models
+* [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
+* IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
 
 ## IBM Cognos Analytics for Mobile
 * [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
@@ -91,7 +92,6 @@
 * [Enabling, Setup and Executing Burst reports in Cognos Analytics](https://youtu.be/tYGqnmYO32U)
 ### Enhance User Interaction with HTML
 * [Overview: Scriptable reports (11.0.4+)](https://youtu.be/roIbr5OJkWA)
-* [Embed live Cognos Analytics content in an external web page](https://youtu.be/Its1igbyplY)
 * [How to share the URL to a specific content object](https://youtu.be/70GyM8HLjV8)
 
 ## B6298 - IBM Cognos Analytics - Author Active Reports
