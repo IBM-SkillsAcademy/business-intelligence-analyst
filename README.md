@@ -5,7 +5,6 @@
 ### Introduction to IBM Cognos Analytics
 * [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
 * [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
-* [A New User Experience for IBM Cognos Analytics](https://youtu.be/S6GBNSl5otQ)
 * [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
 * [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
@@ -14,7 +13,7 @@
 ### Dashboards
 * [IBM Cognos Analytics 11.2: Interactive Dashboards Overview](https://youtu.be/SyMS0IhCqwM)
 * [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
-* [How to create your first dashboard (11.1.7)](https://youtu.be/ER5uydnX_Cc)
+* [How to create your first dashboard (11.2.0)](https://youtu.be/VZlwRs8e18U)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
@@ -75,6 +74,7 @@
 * [How to create a professional report with Cognos Analytics](https://youtu.be/8hP_AtPnLyE)
 ### Customize Reports with Conditional Formatting
 ### Drill-Through Definitions
+* [Slice and dice your data like a pro using drill though definitions in Cognos Analytics Dashboards](https://youtu.be/Q1639RYFAs0)
 ### Enhance Report Layout
 
 ## B6259 - IBM Cognos Analytics Author Reports Advanced (v11.1)
