@@ -84,7 +84,6 @@
 ### Create Advanced Dynamic Reports
 ### Design Effective Prompts
 ### Create Additional Advanced Reports
-* [How to add a "By the Numbers" visualization (11.0.0)](https://youtu.be/HIXnLCX4oA0)
 * [Proven Practices - Dynamically Change Columns in a Report with One Prompt Selection](https://youtu.be/RqKka-diltg)
 * IBM Cognos Analytics Proven Practices - Designing Reports for Performance: [Part 1](https://youtu.be/aKLR0FxKYNM), [Part 2](https://youtu.be/VuUwpTxcOBc), [part 3](https://youtu.be/QDdtfsYTbZ0), [part 4](https://youtu.be/ICvU4W4H3QE), [part 5](https://youtu.be/3itV1XRx1p4) 
 ### Examine Report Specification
