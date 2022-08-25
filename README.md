@@ -1,4 +1,5 @@
 # Cognos Analytics Videos and Tutorials
+* [IBM Accelerator Catalog - Cognos Analytics - IBM Ecosystem Enablement](https://community.ibm.com/accelerators/?context=analytics&authorCompany=IBM%20Ecosystem%20Enablement)
 * [IBM Cognos Analytics 11.2: Welcome to the new Cognos Experience](https://youtu.be/st63H9qGE2k)
 * [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 
@@ -19,6 +20,7 @@
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
 * [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
+* [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
 
 ### Explorations
 * [IBM Cognos Analytics 11.2: Data Exploration Overview](https://youtu.be/jL5eyGSGrCo)
@@ -28,6 +30,9 @@
 ## Metadata modeling
 ### Modeling with Data Modules
 * [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
+* [Data modules - How to prepare data for analysis (11.2.2)](https://youtu.be/7ENTHAo4zIg)
+* [Data modules - How to discover related tables (11.2.2)](https://youtu.be/itjej-j-yvg)
+* [Data modules - How to avoid double counting (11.2.2)](https://youtu.be/EVEd-Yyjb0w)
 * [Data Preparation and Modeling](https://youtu.be/oVMGtUfMMaA)
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
 * [How to upload your own data (11.2.0)](https://youtu.be/yicczYzxkx0)
@@ -57,12 +62,17 @@
 * [IBM Cognos Analytics Create a Professional Report](https://youtu.be/xOhgYzQk2DE)
 * [Use multiple Cognos Analytics packages in a single report](https://youtu.be/CPzxBT962-A)
 * [Execute a Cognos Analytics report with interactivity](https://youtu.be/0aog59gKTqM)
+* [Reporting - How to share report content (11.2.2)](https://youtu.be/JQTmXslmB3M)
+
 ### Create List Reports
 * [Explore Cognos Analytics Reporting and create a cool list report](https://youtu.be/0_sJC1BW8mE)
 * [Change data format to millions in a visualization (11.0.4+)](https://youtu.be/bA_d0PN_6YA)
 * [Change Group and Summary Behavior for List reports - Turn off Automatic grouping](https://youtu.be/2ZNyYI9inWk)
 ### Focus Reports Using Filters
 * [Report Authoring Basics: Part 3 - How to create a crosstab report (11.0.6)](https://youtu.be/Wa_qHmQ275Q)
+### Creating crosstab reports
+* [Reporting - How to combine a visualization and crosstab in a report (11.2.2)](https://youtu.be/UxTvSnoTqTc)
+
 ### Present Data Graphically
 * [Report Authoring Basics: Part 4 - How to create a visualization report (11.0.7)](https://youtu.be/t0PagJcJL7g)
 * [How to create a custom schematic visualization (11.1.5+)](https://youtu.be/DKvVPS7t8lA)
