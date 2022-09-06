@@ -16,6 +16,7 @@
 * [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
 * [How to create your first dashboard (11.2.0)](https://youtu.be/VZlwRs8e18U)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
+* [Visualizations - How to compare measures against target values (11.2.2)](https://youtu.be/w3BwB96dYkA)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
 * [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
