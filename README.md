@@ -4,7 +4,7 @@
 * [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 
 ### Introduction to IBM Cognos Analytics
-* [Cognos Analytics Introduction](https://youtu.be/x6U7hnXpNuo)
+* [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
 * [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
 * [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
 * [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
