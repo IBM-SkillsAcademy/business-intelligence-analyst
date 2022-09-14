@@ -23,6 +23,7 @@
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 * [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
 * [Dashboards - Cascading dashboard filters (11.2.3)](https://youtu.be/08LHk_nfyeE)
+* [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
 
 ### Explorations
 * [IBM Cognos Analytics 11.2: Data Exploration Overview](https://youtu.be/jL5eyGSGrCo)
@@ -65,6 +66,7 @@
 * [Use multiple Cognos Analytics packages in a single report](https://youtu.be/CPzxBT962-A)
 * [Execute a Cognos Analytics report with interactivity](https://youtu.be/0aog59gKTqM)
 * [Reporting - How to share report content (11.2.2)](https://youtu.be/JQTmXslmB3M)
+* [Reporting - How to use guided layout (11.2.2)](https://youtu.be/Ef-FP5TxUjA)
 
 ### Create List Reports
 * [Explore Cognos Analytics Reporting and create a cool list report](https://youtu.be/0_sJC1BW8mE)
