@@ -22,6 +22,7 @@
 * [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 * [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
+* [Dashboards - Cascading dashboard filters (11.2.3)](https://youtu.be/08LHk_nfyeE)
 
 ### Explorations
 * [IBM Cognos Analytics 11.2: Data Exploration Overview](https://youtu.be/jL5eyGSGrCo)
