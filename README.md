@@ -35,6 +35,7 @@
 ### Modeling with Data Modules
 * [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
 * [Data modules - How to prepare data for analysis (11.2.2)](https://youtu.be/7ENTHAo4zIg)
+* [Data Modules - How to create a data module from an uploaded file (11.2.2)](https://youtu.be/47Hwy3bwSf4)
 * [Data modules - How to discover related tables (11.2.2)](https://youtu.be/itjej-j-yvg)
 * [Data modules - How to avoid double counting (11.2.2)](https://youtu.be/EVEd-Yyjb0w)
 * [Data Preparation and Modeling](https://youtu.be/oVMGtUfMMaA)
@@ -55,7 +56,7 @@
 
 ## Stories
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
-* [How to Create a Story](https://youtu.be/TOvX-agSQGA)
+* [How to create a story (11.2.2)](https://youtu.be/RfgEaX5vCAQ)
 
 ## Reporting
 ## B6258 - IBM Cognos Analytics Author Reports Fundamentals (v11.1)
@@ -80,9 +81,9 @@
 
 ### Present Data Graphically
 * [Report Authoring Basics: Part 4 - How to create a visualization report (11.0.7)](https://youtu.be/t0PagJcJL7g)
-* [How to create a custom schematic visualization (11.1.5+)](https://youtu.be/DKvVPS7t8lA)
+* [How to create a custom schematic visualization (11.1.5+)](https://youtu.be/xfLD1ENtCqE)
 ### Focus Reports Using Prompts
-* [How to create a parameterized report (11.0.6+)](https://youtu.be/wntVesCuXTg)
+* [Reporting - How to create a parameterized report (11.2.2)](https://youtu.be/IjKljKErfj0)
 * [Global parameters (11.0.7+)](https://youtu.be/76YVHEzr8dA)
 ### Extend Reports Using Calculations
 ### Use Additional Report Building Techniques
