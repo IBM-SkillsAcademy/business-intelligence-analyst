@@ -17,10 +17,12 @@
 * [How to create your first dashboard (11.2.0)](https://youtu.be/VZlwRs8e18U)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
 * [Visualizations - How to compare measures against target values (11.2.2)](https://youtu.be/w3BwB96dYkA)
+* [Visualizations - How to show trends over time (11.2.2)](https://youtu.be/JFQIUhpK72w)
 * [Visualizations - How to show data in a hierarchy (11.2.2)](https://youtu.be/2vw5PNP3GK0)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
 * [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
+* [Visualizations - How to use decision trees (11.2.2)](https://youtu.be/FRvO9o5ONYo)
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 * [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
 * [Dashboards - Cascading dashboard filters (11.2.3)](https://youtu.be/08LHk_nfyeE)
@@ -49,10 +51,16 @@
 
 ### IBM Cognos Framework Manager: Design Metadata Models
 * [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
-* IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/Z9zxXNPlbsw), [Part 2 – Report Studio](https://youtu.be/9RZtSCwo62Y)
+* IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/_zqY4m-2ZXk), [Part 2 – Report Studio](https://youtu.be/rQfQId_Mcjg)
 
 ## IBM Cognos Analytics for Mobile
 * [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
+* [Mobile - Understanding the Cognos Analytics for Mobile environment (11.2.2)](https://youtu.be/_d9Owi2a4WQ)
+* [Mobile - Navigating IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/mArwOhW2nME)
+* [Mobile - How to manage and share pin boards (11.2.2)](https://youtu.be/o_db6FJHztg)
+* [Mobile - How to use alerts (11.2.2)](https://youtu.be/MYG4g_0Voqc)
+* [Mobile - Managing IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/ykc7dv7UNz0)
+* [Mobile - Troubleshooting IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/efPKA_DnWR0)
 
 ## Stories
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
@@ -110,10 +118,7 @@
 * [How to share the URL to a specific content object](https://youtu.be/70GyM8HLjV8)
 
 ## B6298 - IBM Cognos Analytics - Author Active Reports
-* How to create your first active report (11.0.8+): [part 1](https://youtu.be/yOF3DuGxEdo), [part 2](https://youtu.be/Kv9_-Eb4rqY)
-* Create a simple active report in Cognos Analytics
-* How to add clickable images to an Active Report: [part 1](https://youtu.be/sKELC54ScWE), [part 2](https://youtu.be/jeSOoI6tb4U)
-* [How to add a popup window to an Active Report (11.0.0)](https://youtu.be/akteAHYUaH8)
+* How to create your first active report (11.0.8+): [part 1](https://youtu.be/2lIIRqwGNe0), [part 2](https://youtu.be/Axp7U5ddexg)
 
 ## B6255G: IBM Cognos Analytics - Enterprise Administration (V11.1.x)
 * [Migrate Cognos Analytics Reports](https://youtu.be/0Yyl2HSAjkw)
@@ -140,6 +145,8 @@
   * [Part 4: Upgrading to the latest Jupyter Server](https://youtu.be/EnJuAwjQOSk)
   * [Part 5: Connecting a Notebooks server to IBM Cognos Analytics](https://youtu.be/llBuQf7ITWg)
   * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/yX2KkBsMgnk)
+
+
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
