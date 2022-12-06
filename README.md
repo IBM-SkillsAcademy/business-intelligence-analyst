@@ -18,6 +18,7 @@
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
 * [Visualizations - How to compare measures against target values (11.2.2)](https://youtu.be/w3BwB96dYkA)
 * [Visualizations - How to show trends over time (11.2.2)](https://youtu.be/JFQIUhpK72w)
+* [Visualizations - How to forecast time series data (11.2.2)](https://youtu.be/s5hTNFijWfo)
 * [Visualizations - How to show data in a hierarchy (11.2.2)](https://youtu.be/2vw5PNP3GK0)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
@@ -38,7 +39,9 @@
 * [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
 * [Data modules - How to prepare data for analysis (11.2.2)](https://youtu.be/7ENTHAo4zIg)
 * [Data Modules - How to create a data module from an uploaded file (11.2.2)](https://youtu.be/47Hwy3bwSf4)
+* [Data modules - How to add a calculation to a data module (11.2.2)](https://youtu.be/cCytJ1XvM_s)
 * [Data modules - How to discover related tables (11.2.2)](https://youtu.be/itjej-j-yvg)
+* [Data modules - How to create custom tables (11.2.2)](https://youtu.be/S9ilyU2e_Bo)
 * [Data modules - How to avoid double counting (11.2.2)](https://youtu.be/EVEd-Yyjb0w)
 * [Data Preparation and Modeling](https://youtu.be/oVMGtUfMMaA)
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
@@ -94,6 +97,7 @@
 * [Reporting - How to create a parameterized report (11.2.2)](https://youtu.be/IjKljKErfj0)
 * [Global parameters (11.0.7+)](https://youtu.be/76YVHEzr8dA)
 ### Extend Reports Using Calculations
+* [Reporting - How to add a calculation to a report (11.2.2)](https://youtu.be/iphpWfgbk1U)
 ### Use Additional Report Building Techniques
 * [How to create a professional report with Cognos Analytics](https://youtu.be/8hP_AtPnLyE)
 ### Customize Reports with Conditional Formatting
