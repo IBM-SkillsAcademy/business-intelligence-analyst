@@ -27,6 +27,7 @@
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 * [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
 * [Dashboards - Cascading dashboard filters (11.2.3)](https://youtu.be/08LHk_nfyeE)
+* [Visualizations - How to identify outliers and compare distributions (11.2.2)](https://youtu.be/EXKj1A3yHAg)
 * [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
 
 ### Explorations
@@ -51,6 +52,7 @@
 * [How to create multi-fact and multi-grain data modules](https://youtu.be/Ol1XFcQIYsg)
 * [What’s new in IBM Cognos Analytics Data Preparation?](https://youtu.be/zfEtMK5NeLU)
 * [Security filters in data modules](https://youtu.be/M4jtgf3kAZk)
+* [Data modules - How to document the contents of a data module (11.2.2)](https://youtu.be/MdPq5besHVI)
 
 ### IBM Cognos Framework Manager: Design Metadata Models
 * [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
