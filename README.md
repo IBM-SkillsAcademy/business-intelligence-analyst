@@ -127,22 +127,15 @@
 ## B6298 - IBM Cognos Analytics - Author Active Reports
 * How to create your first active report (11.0.8+): [part 1](https://youtu.be/2lIIRqwGNe0), [part 2](https://youtu.be/Axp7U5ddexg)
 
-## B6255G: IBM Cognos Analytics - Enterprise Administration (V11.1.x)
+## IBM Cognos Analytics - Enterprise Administration
 * [Getting Started - Introduction to managing content (11.2.2)](https://youtu.be/kM50M6XGDyA)
 * [Migrate Cognos Analytics Reports](https://youtu.be/0Yyl2HSAjkw)
 * [How to import the samples deployment (11.1.0+)](https://youtu.be/pweE7iRxpmk)
-* [How to add a new data server connection (11.0.6+)](https://youtu.be/wAdJBhPONLI)
-* [How to add a data server to connect to a MS SQL Server database (11.0.0 - 11.0.5)](https://youtu.be/7P-kKDmG1BA)
 * [How to Create the Cognos Analytics Licensed](https://youtu.be/vz1QQp6erR4)
-* [IBM Big SQL: Analyze HDFS data with IBM Cognos Analytics](https://youtu.be/MBQZp3sqVfk)
 * [How to Upgrade Your Version of Cognos Analytics](https://youtu.be/stsD0WRpPQg)
 * [How to configure audit reporting](https://youtu.be/ljXtyusIzhE)
 * [How to set up content archival with Cognos Analytics & FileNet](https://youtu.be/h5rzgNsPK68)
-* [Manage Security in Cognos Analytics](https://youtu.be/k26ABz0QaK8)
 * [How to Create Themes and Extensions](https://youtu.be/1yzgM_-Bf-4)
-* [IBM Cognos Analytics and IBM Planning Analytics integration with CAM Security](https://youtu.be/3EMSoQEpKAo)
-* [Analyze logs with IBM Cognos Dynamic Query Analyzer](https://youtu.be/K3xfP5g6O08)
-* [How to save report outputs to Box](https://youtu.be/JkG2-VV-2zg)
 * [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
 * [Cognos Notebooks](https://youtu.be/1qagt0j1zws)
 * Cognos Notebooks installation:
