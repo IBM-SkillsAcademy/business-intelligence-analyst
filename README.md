@@ -5,8 +5,7 @@
 
 ### Introduction to IBM Cognos Analytics
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
-* [Create a data-driven organization with IBM Cognos Analytics](https://youtu.be/R3lmfUHgdL8)
-* [How to Navigate the Portal (Basic) in IBM Cognos Analytics](https://youtu.be/vTvLErRoJqE)
+* [Getting started - Navigating IBM Cognos Analytics with Watson (11.2.2)](https://youtu.be/4bQuCnWUYwA)
 * [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
@@ -64,15 +63,6 @@
 ### IBM Cognos Framework Manager: Design Metadata Models
 * [IBM Cognos Analytics Proven Practices - Framework Manager Overview](https://youtu.be/ZccTf0SAKfY)
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/_zqY4m-2ZXk), [Part 2 – Report Studio](https://youtu.be/rQfQId_Mcjg)
-
-## IBM Cognos Analytics for Mobile
-* [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
-* [Mobile - Understanding the Cognos Analytics for Mobile environment (11.2.2)](https://youtu.be/_d9Owi2a4WQ)
-* [Mobile - Navigating IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/mArwOhW2nME)
-* [Mobile - How to manage and share pin boards (11.2.2)](https://youtu.be/o_db6FJHztg)
-* [Mobile - How to use alerts (11.2.2)](https://youtu.be/MYG4g_0Voqc)
-* [Mobile - Managing IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/ykc7dv7UNz0)
-* [Mobile - Troubleshooting IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/efPKA_DnWR0)
 
 ## Stories
 * [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
@@ -174,6 +164,15 @@
 
 ### Troubleshooting
 * [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
+
+## IBM Cognos Analytics for Mobile
+* [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
+* [Mobile - Understanding the Cognos Analytics for Mobile environment (11.2.2)](https://youtu.be/_d9Owi2a4WQ)
+* [Mobile - Navigating IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/mArwOhW2nME)
+* [Mobile - How to manage and share pin boards (11.2.2)](https://youtu.be/o_db6FJHztg)
+* [Mobile - How to use alerts (11.2.2)](https://youtu.be/MYG4g_0Voqc)
+* [Mobile - Managing IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/ykc7dv7UNz0)
+* [Mobile - Troubleshooting IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/efPKA_DnWR0)
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
