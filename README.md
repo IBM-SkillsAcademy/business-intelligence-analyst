@@ -24,7 +24,6 @@
 * [Visualizations - How to compare proportional contributions (11.2.2)](https://youtu.be/S2Jjk1G9Zr0)
 * [Visualizations - How to show 2 related measures (11.2.2)](https://youtu.be/4tjpOe8x5qQ)
 * [Dashboards - How to add a calculation to a dashboard (11.2.2)](https://youtu.be/i5WwrO_JOFA)
-* [Visualizations - How to forecast time series data (11.2.2)](https://youtu.be/s5hTNFijWfo)
 * [Visualizations - How to show data in a hierarchy (11.2.2)](https://youtu.be/2vw5PNP3GK0)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
@@ -38,6 +37,12 @@
 * [Using a Planning Analytics cube in Cognos Analytics](https://youtu.be/NoA6_WVEhK4)
 * [Dashboards - How to drill through from a dashboard to a dashboard (11.2.2)](https://youtu.be/vxXef7kN4Yc)
 * [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
+
+### Insights
+* [How AI is infused in Cognos Analytics - Use Case](https://youtu.be/VQ3va3GeJJU)
+* [Cognos Analytics NLG Narrative Insights in 1 minute](https://youtu.be/uW--lCh7lWE)
+* [Cognos Analytics Forecast in 1 minute](https://youtu.be/stiUBnjKByc)
+* [Visualizations - How to forecast time series data (11.2.2)](https://youtu.be/s5hTNFijWfo)
 * [Analyze what-if scenarios using machine learning (11.1.7+)](https://youtu.be/ATX5jBw7R9Q)
 
 ### Assistant
