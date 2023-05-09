@@ -18,12 +18,12 @@ This code introduction will provide you with an overview of:
 5. Known limitations as of 11.1 R2
 
 ## 1. Important concepts
-
 ### 1.1 Projected vs. non-projected
 * A _projected_ value is essentially **what is being shown on a visualization**. The items that you drag into the data slot are projected items. Projected values are data elements of a visualization that are visible to a user, such as an axis label, a bar on a Bar visualization, etc.
 * A _non-projected_ value is data that is not represented by any visualization element, but is indirectly represented or influencing what appears on a visualization.  
 **Example**
-![Projected Before example](https://github.ibm.com/BusinessAnalytics/dashboard-livewidget-docs/blob/master/Code%20Introductions/Resources/ProjectedBefore.png)  
+![Projected before example](ProjectedBefore.png)
+
 On the Bar chart, both Order Method Type and Quantity are projected values. On the Summary widget, Revenue is the projected value. Order Method Type is a non-projected value for the Summary widget because it does not appear directly on the visualization.
 
 ### 1.2 Highlighting
@@ -31,9 +31,10 @@ On the Bar chart, both Order Method Type and Quantity are projected values. On t
 * Highlighting is a means of drawing one's attention to one or more data elements of a visualization that a user has selected
 * A user can make selection on a point or an edge. "Point" doesn't refer to only a point on the Point visualization type; it refers to any point on any visualization, such as a bar on a Bar, or a bubble on a Bubble.  
 **Example**  
-![Highlighting example](https://github.ibm.com/BusinessAnalytics/dashboard-docs/blob/master/Code%20Introductions/Resources/simpleHighlightingExample.jpg)   
-➡ In this Column vis, the projected points are 'Gender' 'F' and 'M'. The column 'F' has been selected and appears highlighted, while 'M' is still visible but in the background.   
-➡ NOTE: The filter indicator appears in the top right of the widget to indicate a filter is applied to this vis.  
+![Highlighting example](simpleHighlightingExample.jpg)
+
+➡ In this Column visualization, the projected points are 'Gender' 'F' and 'M'. The column 'F' has been selected and appears highlighted, while 'M' is still visible but in the background.   
+➡ NOTE: The filter indicator appears in the top right of the widget to indicate a filter is applied to this visualization.
 
 * Highlighting is different from traditional filters for two primary reasons:  
 ➡ Rather than data being filtered out entirely, all data visualization elements are still present, but what a user has selected appears highlighted as to draw attention to it  
@@ -47,19 +48,20 @@ A highlight can be performed on:
 ➡ a visualization edge (eg. a column of a Table)  
 ➡ multiple visualization edges (eg. two or more columns of a Table)   
 
-### 1.3 Brushing 
+### 1.3 Brushing
 * Brushing refers to the effect a selection of a shared projected value on one visualization has on another visualization. **When a user highlights a point or edge of on one visualization, it will 'brush' across the dashboard canvas and highlight all other visualizations using that same projected value.** Brushing is a filter on a shared projected value.  
 **Example**
-![Brushing example](https://github.ibm.com/BusinessAnalytics/dashboard-docs/blob/master/Code%20Introductions/Resources/simpleBrushingExample.jpg)   
+![Brushing example](simpleBrushingExample.jpg)
+
 ➡ As a continuation of the Highlighting example, both the Column and Bar visualizations have been created from the same table of the same source. Both have the column 'Gender' projecting the values 'F' and 'M'  
 ➡ When the column 'F' is selected on the Column visualization, the selection of 'F' will brush across the dashboard canvas, and highlight all other visualization projecting the value 'F'. On the Bar visualization, the three bars representing 'F' as coloured by the three categories of 'Promotability' are highlighted.   
-➡ NOTE: The filter indicator in the top right of both widgets to indicate a filter is applied to both visualizations.  
-
+➡ NOTE: The filter indicator in the top right of both widgets to indicate a filter is applied to both visualizations.
 
 ### 1.4. Slicing
 * Slicing refers to the effect a selection of a visualization element on one visualization has on another visualization when there are shared non-projected values, but no shared projected values. **A selection ‘slices values’ on visualizations where the value is not projected.** Slicing is a filter on a non-projected value.  
 **Example**   
-![Slicing example](https://github.ibm.com/BusinessAnalytics/dashboard-docs/blob/master/Code%20Introductions/Resources/simpleSlicingExample.jpg)  
+![Slicing example](simpleSlicingExample.jpg)
+
 ➡ As a continuation of the Highlighting and Brushing examples, a Pie visualization has been created from the same table of the same source as the Column and Bar visualizations. The Pie is _not_ projecting the values 'Gender' 'F' and 'M'. The Pie visualization is projecting 'Hire source' and 'Attrition risk'  
 ➡ When the column 'F' is selected on the Column visualization, the selection of 'F' will brush across the dashboard canvas, and highlight the Bar visualization because it projecting the value 'F'. The Pie visualization not projecting 'F', so in response to the selection on 'F', we will slice the Pie visualization to show only the data from the columns 'Hire source' and 'Attrition risk' that are related to 'Gender' 'F'.   
 ➡ NOTE: The filter indicator appears in the top right of all three widgets to indicate a filter is applied to all visualizations.   
@@ -149,7 +151,7 @@ The 'Select tool' option (aka. 'lasso selection') in the on-demand-toolbar (ODT)
 
 The result a user will see is multiple parts of a visualization highlighted, and the highlighting will behave the same as if a user were to perform a multi-selection that brushes and/or clices other visualizations. Users can have multiple lasso selections at once.  
 **Example**  
-![Simple lasso selection](https://github.ibm.com/BusinessAnalytics/dashboard-docs/blob/master/Code%20Introductions/Resources/simpleLasso.gif)
+![Simple lasso selection](simpleLasso.gif)
 
 ### 1.6 Edge selection vs point selection  
 * Remember those tables you see sometimes where you click on the column label at the top, and the entire column selects? Thats an example of an edge selection. Whereas clicking on a specific cell in that table would be an example of a point selection.
@@ -160,7 +162,7 @@ The result a user will see is multiple parts of a visualization highlighted, and
 
 Dashboard relies on the MOSER and MUI components (MOSER, Smart modelling, & Modeller UI) to import, classify, and make data available so it can be consumed in the Dashboard perspective. 
 
-_User-defined joins_ are [relationships a user can create themselves in a Data module](https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ca_mdlg.doc/t_ca_mdlg_relationship.html). Remember your SQL classes? Joins is essentially used to combine rows from 2 or more column or tables, based on a common attributes in each. **This is all done server side**. 
+_User-defined joins_ are [relationships a user can create themselves in a Data module](https://www.ibm.com/docs/en/cognos-analytics/11.2.0?topic=relationships-creating-relationship). Remember your SQL classes? Joins is essentially used to combine rows from 2 or more column or tables, based on a common attributes in each. **This is all done server side**. 
 
 User-defined joins are powerful and provide users with a great degree of governance over their data. Despite their value, user-defined joins are often too complex for our business users to discover, create, and modify. A simpler solution was needed.
 
