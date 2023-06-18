@@ -50,6 +50,7 @@
 * [Explorations - How to use time awareness in the Assistant (11.2.2)](https://youtu.be/tYIGhJMSpVQ)
 
 ## Explorations
+* [AI Assistant - Creating an exploration from an uploaded file 12.0(https://youtu.be/YKfFnYONeBo)
 * [Explorations - Creating your first exploration from an uploaded file (11.2.2)](https://youtu.be/rIKDgFkkl4s)
 * [IBM Cognos Analytics 11.2: Data Exploration Overview](https://youtu.be/jL5eyGSGrCo)
 * [How to create an exploration (11.1.x)](https://youtu.be/N6XgAbWu-D0)
