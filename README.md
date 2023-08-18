@@ -80,7 +80,6 @@
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/_zqY4m-2ZXk), [Part 2 – Report Studio](https://youtu.be/rQfQId_Mcjg)
 
 ## Stories
-* 
 * [How to create a story (11.2.2)](https://youtu.be/RfgEaX5vCAQ)
 * [IBM Cognos Analytics Coffee Shop Demo - Explorations and Stories](https://youtu.be/QbOYbCTDnO0)
 
@@ -184,6 +183,9 @@
 * [How to create themes and extensions (11.0.4)](https://youtu.be/QYGfSYJjqhs)
 * [Reporting - How to schedule reports (11.2.2)](https://youtu.be/acgNrHbtTCA)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
+
+### Migration
+* [Migration from Tableau to IBM Cognos Analytics](https://youtu.be/IPGgENgBq1s)
 
 ### Cognos Toolkit
 * [Use Inventory to help plan, optimize and clean up your Cognos upgrade](https://youtu.be/pDbQb1pZI10)
