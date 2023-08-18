@@ -1,14 +1,14 @@
 # Cognos Analytics Videos and Tutorials
-* [IBM Accelerator Catalog - Cognos Analytics - IBM Ecosystem Enablement](https://community.ibm.com/accelerators/?context=analytics&authorCompany=IBM%20Ecosystem%20Enablement)
+* [IBM Accelerator Catalog - Cognos Analytics - IBM Ecosystem Enablement](https://ibm.biz/acccatalog)
 * [IBM Cognos Analytics 11.2: Welcome to the new Cognos Experience](https://youtu.be/st63H9qGE2k)
-* [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 
 ## Introduction to IBM Cognos Analytics
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
 * [Getting started - Navigating IBM Cognos Analytics with Watson (11.2.2)](https://youtu.be/4bQuCnWUYwA)
-* [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
+* [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
+* [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
 
 ## Dashboards
 * [IBM Cognos Analytics 11.2: Interactive Dashboards Overview](https://youtu.be/SyMS0IhCqwM)
@@ -80,8 +80,9 @@
 * IBM Cognos Analytics Proven Practices - Default to User-Based Latest Period: [Part 1 – Framework Manager](https://youtu.be/_zqY4m-2ZXk), [Part 2 – Report Studio](https://youtu.be/rQfQId_Mcjg)
 
 ## Stories
-* [Cognos Stories in Action](https://youtu.be/PzNe9SPNdBc)
+* 
 * [How to create a story (11.2.2)](https://youtu.be/RfgEaX5vCAQ)
+* [IBM Cognos Analytics Coffee Shop Demo - Explorations and Stories](https://youtu.be/QbOYbCTDnO0)
 
 ## Reporting
 ## IBM Cognos Analytics Author Reports Fundamentals
