@@ -168,7 +168,6 @@
 * [How to Upgrade Your Version of Cognos Analytics](https://youtu.be/stsD0WRpPQg)
 * [How to configure audit reporting](https://youtu.be/ljXtyusIzhE)
 * [How to set up content archival with Cognos Analytics & FileNet](https://youtu.be/h5rzgNsPK68)
-* [How to Create Themes and Extensions](https://youtu.be/1yzgM_-Bf-4)
 * [Accessing On-Premises Data with IBM Cognos Analytics on Cloud 11.1.2.2+](https://youtu.be/L73E94JJdQI)
 * [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
 * [Cognos Notebooks](https://youtu.be/1qagt0j1zws)
@@ -180,7 +179,6 @@
   * [Part 5: Connecting a Notebooks server to IBM Cognos Analytics](https://youtu.be/llBuQf7ITWg)
   * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/yX2KkBsMgnk)
 * [Dashboards - Collaborating with Microsoft Teams and Cognos Analytics (11.2.3)](https://youtu.be/LMhh8IOj4JM)
-* [How to create themes and extensions (11.0.4)](https://youtu.be/QYGfSYJjqhs)
 * [Reporting - How to schedule reports (11.2.2)](https://youtu.be/acgNrHbtTCA)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
 
@@ -193,9 +191,6 @@
 * [Cognos Toolkit How-To: Bulk Convert Queries to Reports](https://youtu.be/8wi4oNqvcSY)
 * [IBM Cognos Toolkit GitHub Integration](https://youtu.be/hDHHGepZuoc)
 
-### Troubleshooting
-* [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
-
 ## IBM Cognos Analytics for Mobile
 * [Cognos Mobile: The power of Cognos in the palm of your hand](https://youtu.be/EEupxCFNZoM)
 * [Mobile - Understanding the Cognos Analytics for Mobile environment (11.2.2)](https://youtu.be/_d9Owi2a4WQ)
@@ -204,6 +199,13 @@
 * [Mobile - How to use alerts (11.2.2)](https://youtu.be/MYG4g_0Voqc)
 * [Mobile - Managing IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/ykc7dv7UNz0)
 * [Mobile - Troubleshooting IBM Cognos Analytics for Mobile (11.2.2)](https://youtu.be/efPKA_DnWR0)
+
+## Developing
+* [How to create themes and extensions (11.0.4)](https://youtu.be/QYGfSYJjqhs)
+* [Cognos dashboard extension example](https://youtu.be/7tBbbnlKZ0E?si=1W4miaX4_mLVb03_)
+
+## Troubleshooting
+* [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
