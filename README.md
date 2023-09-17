@@ -48,6 +48,7 @@
 ### Assistant
 * [Dashboards - Introduction to the Assistant with dashboards](https://youtu.be/vaWszl6DqgY)
 * [Explorations - How to use time awareness in the Assistant (11.2.2)](https://youtu.be/tYIGhJMSpVQ)
+* [Cognos Analytics 12 AI Assistant - Self Service Experience](https://youtu.be/PrVglccbzvU)
 
 ## Explorations
 * [AI Assistant - Creating an exploration from an uploaded file 12.0(https://youtu.be/YKfFnYONeBo)
