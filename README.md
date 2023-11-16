@@ -1,9 +1,8 @@
 # Cognos Analytics Videos and Tutorials
 * [IBM Accelerator Catalog - Cognos Analytics - IBM Ecosystem Enablement](https://ibm.biz/acccatalog)
-* [IBM Cognos Analytics 11.2: Welcome to the new Cognos Experience](https://youtu.be/st63H9qGE2k)
 
 ## Introduction to IBM Cognos Analytics
-* [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
+* [Cognos Analytics 12: 2 Minute Product Tour](https://youtu.be/0dZLzfvI224)
 * [Getting started - Navigating IBM Cognos Analytics with Watson (11.2.2)](https://youtu.be/4bQuCnWUYwA)
 * [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
