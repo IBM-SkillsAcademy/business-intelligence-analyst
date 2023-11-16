@@ -202,10 +202,7 @@
 
 ## Developing
 * [How to create themes and extensions (11.0.4)](https://youtu.be/QYGfSYJjqhs)
-* [Cognos dashboard extension example](https://youtu.be/7tBbbnlKZ0E?si=1W4miaX4_mLVb03_)
-
-## Troubleshooting
-* [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
+* [Cognos dashboard extension example](https://youtu.be/7tBbbnlKZ0E)
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
