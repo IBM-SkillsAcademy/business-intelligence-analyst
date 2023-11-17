@@ -35,6 +35,7 @@
 * [Visualizations - How to identify outliers and compare distributions (11.2.2)](https://youtu.be/EXKj1A3yHAg)
 * [Using a Planning Analytics cube in Cognos Analytics](https://youtu.be/NoA6_WVEhK4)
 * [Dashboards - How to drill through from a dashboard to a dashboard (11.2.2)](https://youtu.be/vxXef7kN4Yc)
+* [Cognos Analytics 12: Nested Dashboards](https://youtu.be/-QGrZsTRj9o)
 * [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
 
 ### Insights
