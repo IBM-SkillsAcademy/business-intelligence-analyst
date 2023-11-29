@@ -66,6 +66,7 @@
 * [Data modules - How to create custom tables (11.2.2)](https://youtu.be/S9ilyU2e_Bo)
 * [Data modules - How to avoid double counting (11.2.2)](https://youtu.be/EVEd-Yyjb0w)
 * [IBM Cognos Analytics Overview: Upload, Prepare, Explore and Present Data](https://youtu.be/CMn-65yUM4U)
+* [Cognos Analytics 12: Add Uploaded Data](https://youtu.be/PAw_X8OVqgE)
 * [How to upload your own data (11.2.0)](https://youtu.be/yicczYzxkx0)
 * [Understand Intent Driven Modeling](https://youtu.be/piEFK0eXV3c)
 * [How to prepare data with Cognos Analytics](https://youtu.be/3gfGAWta9NI)
