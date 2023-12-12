@@ -1,5 +1,5 @@
 # Cognos Analytics Videos and Tutorials
-* [IBM Accelerator Catalog - Cognos Analytics - IBM Ecosystem Enablement](https://ibm.biz/acccatalog)
+* [IBM Accelerator Catalog - Library of Training Videos](https://public.dhe.ibm.com/software/data/sw-library/cognos/mobile/videos/List_of_recent_videos.pdf)
 
 ## Introduction to IBM Cognos Analytics
 * [Cognos Analytics 12: 2 Minute Product Tour](https://youtu.be/0dZLzfvI224)
@@ -184,9 +184,6 @@
 * [Reporting - How to schedule reports (11.2.2)](https://youtu.be/acgNrHbtTCA)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
 
-### Migration
-* [Migration from Tableau to IBM Cognos Analytics](https://youtu.be/IPGgENgBq1s)
-
 ### Cognos Toolkit
 * [Use Inventory to help plan, optimize and clean up your Cognos upgrade](https://youtu.be/pDbQb1pZI10)
 * [Cognos Toolkit How-To: Bulk Convert Reports from Classic Viewer to Interactive Viewer](https://youtu.be/5_4HkYoCn24)
@@ -205,6 +202,10 @@
 ## Developing
 * [How to create themes and extensions (11.0.4)](https://youtu.be/QYGfSYJjqhs)
 * [Cognos dashboard extension example](https://youtu.be/7tBbbnlKZ0E)
+
+## Non-IBM videos
+* [IBM Cognos 11 - Admin | Setup & Configure LDAP Authentication with Apache DS | OneTouchBI](https://youtu.be/ojVdSQ6F8hw)
+* [Migration from Tableau to IBM Cognos Analytics](https://youtu.be/IPGgENgBq1s) - PMsquare
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
