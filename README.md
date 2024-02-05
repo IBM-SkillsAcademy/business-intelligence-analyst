@@ -44,6 +44,8 @@
 * [Cognos Analytics 12: Nested Dashboards](https://youtu.be/-QGrZsTRj9o)
 ### Formatting
 * [Cognos Analytics 12: Hide or show dashboard visualization header icons](https://youtu.be/sWSoOCObVqE)
+### Data caching
+* [Cognos Dashboards - Local Data Cache for Improved Performance](https://youtu.be/-BycGkSYf0w)
 ### Sharing content
 * [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
 ### Assistant panel
