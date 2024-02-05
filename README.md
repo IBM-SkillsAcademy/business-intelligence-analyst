@@ -8,13 +8,20 @@
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
 * [The new Learn pane in IBM Cognos Analytics](https://youtu.be/T79x4u2c_Z4)
+* [Cognos Analytics 12: Find Your Favorite Content](https://youtu.be/BU2BuReuI0U)
+* [Cognos Analytics 12: Catalog Search](https://youtu.be/tq4P7jGbENM)
 
 ## Dashboards
+### Creating a dashboard
+* [Cognos Analytics 12: Create a dashboard faster than making a cup of coffee](https://youtu.be/kEVOcRqeLSg)
 * [IBM Cognos Analytics 11.2: Interactive Dashboards Overview](https://youtu.be/SyMS0IhCqwM)
-* [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
-* [Dashboards - How to author a dashboard (11.2.2)](https://youtu.be/lvFqJSU__TU)
 * [Dashboards - Creating your first dashboard from an uploaded file (11.2.2)](https://youtu.be/0E6VLAnoWAc)
 * [How to create your first dashboard (11.2.0)](https://youtu.be/VZlwRs8e18U)
+* [Dashboards - How to author a dashboard (11.2.2)](https://youtu.be/lvFqJSU__TU)
+### Exploring your data
+* [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
+### Visualizations
+* [IBM Cognos Analytics: Visual Data Exploration](https://youtu.be/jZ9WGKk41s4)
 * [Visualizations - How to show data as rows and columns (11.2.2)](https://youtu.be/RjzM_46Sna8)
 * [Visualizations - How to compare measures against target values (11.2.2)](https://youtu.be/w3BwB96dYkA)
 * [Visualizations - How to show trends over time (11.2.2)](https://youtu.be/JFQIUhpK72w)
@@ -26,29 +33,30 @@
 * [Visualizations - How to show data in a hierarchy (11.2.2)](https://youtu.be/2vw5PNP3GK0)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
 * [How to use Maps in Cognos Analytics Dashboards](https://youtu.be/EVrRAbuXy1c)
-* [How to create a zoom effect on a map (11.1.x)](https://youtu.be/MQ6GQpKdMLc)
 * [How do colors get assigned to values in visualizations in Cognos Dashboards?](https://youtu.be/ya923NxZAGc)
 * [Visualizations - How to use decision trees (11.2.2)](https://youtu.be/FRvO9o5ONYo)
-* [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
-* [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
 * [Dashboards - Cascading dashboard filters (11.2.3)](https://youtu.be/08LHk_nfyeE)
 * [Visualizations - How to identify outliers and compare distributions (11.2.2)](https://youtu.be/EXKj1A3yHAg)
 * [Using a Planning Analytics cube in Cognos Analytics](https://youtu.be/NoA6_WVEhK4)
 * [Dashboards - How to drill through from a dashboard to a dashboard (11.2.2)](https://youtu.be/vxXef7kN4Yc)
-* [Cognos Analytics 12: Nested Dashboards](https://youtu.be/-QGrZsTRj9o)
 * [Dashboards - How to troubleshoot a dashboard (11.2.2)](https://youtu.be/S4f3c1HuHwU)
-
+### Widgets
+* [Cognos Analytics 12: Nested Dashboards](https://youtu.be/-QGrZsTRj9o)
+### Formatting
+* [Cognos Analytics 12: Hide or show dashboard visualization header icons](https://youtu.be/sWSoOCObVqE)
+### Sharing content
+* [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
+### Assistant panel
+* [Dashboards - Introduction to the Assistant with dashboards](https://youtu.be/vaWszl6DqgY)
+* [Explorations - How to use time awareness in the Assistant (11.2.2)](https://youtu.be/tYIGhJMSpVQ)
+* [Cognos Analytics 12 AI Assistant - Self Service Experience](https://youtu.be/PrVglccbzvU)
+* [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
 ### Insights
 * [How AI is infused in Cognos Analytics - Use Case](https://youtu.be/VQ3va3GeJJU)
 * [Cognos Analytics NLG Narrative Insights in 1 minute](https://youtu.be/uW--lCh7lWE)
 * [Cognos Analytics Forecast in 1 minute](https://youtu.be/stiUBnjKByc)
 * [Visualizations - How to forecast time series data (11.2.2)](https://youtu.be/s5hTNFijWfo)
 * [Analyze what-if scenarios using machine learning (11.1.7+)](https://youtu.be/ATX5jBw7R9Q)
-
-### Assistant
-* [Dashboards - Introduction to the Assistant with dashboards](https://youtu.be/vaWszl6DqgY)
-* [Explorations - How to use time awareness in the Assistant (11.2.2)](https://youtu.be/tYIGhJMSpVQ)
-* [Cognos Analytics 12 AI Assistant - Self Service Experience](https://youtu.be/PrVglccbzvU)
 
 ## Explorations
 * [AI Assistant - Creating an exploration from an uploaded file 12.0](https://youtu.be/YKfFnYONeBo)
