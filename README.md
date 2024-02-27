@@ -53,6 +53,8 @@
 * [Explorations - How to use time awareness in the Assistant (11.2.2)](https://youtu.be/tYIGhJMSpVQ)
 * [Cognos Analytics 12 AI Assistant - Self Service Experience](https://youtu.be/PrVglccbzvU)
 * [Natural Language and AI Features (11.1.7+)](https://youtu.be/E4MSD6zRovc)
+* [Define Synonyms in Cognos Analytics Assistant in 1 Minute](https://youtu.be/AhIUID-c5dQ)
+
 ### Insights
 * [How AI is infused in Cognos Analytics - Use Case](https://youtu.be/VQ3va3GeJJU)
 * [Cognos Analytics NLG Narrative Insights in 1 minute](https://youtu.be/uW--lCh7lWE)
