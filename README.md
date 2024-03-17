@@ -29,6 +29,7 @@
 * [Visualizations - How to compare multiple quantitative variables (11.2.2)](https://youtu.be/1sXoEat-dmE)
 * [Visualizations - How to compare proportional contributions (11.2.2)](https://youtu.be/S2Jjk1G9Zr0)
 * [Visualizations - How to show 2 related measures (11.2.2)](https://youtu.be/4tjpOe8x5qQ)
+* [Cognos Analytics 12: Data Clustering](https://youtu.be/YXZKeNOc4RU)
 * [Dashboards - How to add a calculation to a dashboard (11.2.2)](https://youtu.be/i5WwrO_JOFA)
 * [Visualizations - How to show data in a hierarchy (11.2.2)](https://youtu.be/2vw5PNP3GK0)
 * [Sort your data how you like using IBM Cognos Analytics Dashboards](https://youtu.be/mstWDwpG1Zs)
@@ -58,7 +59,7 @@
 ### Insights
 * [How AI is infused in Cognos Analytics - Use Case](https://youtu.be/VQ3va3GeJJU)
 * [Cognos Analytics NLG Narrative Insights in 1 minute](https://youtu.be/uW--lCh7lWE)
-* [Cognos Analytics Forecast in 1 minute](https://youtu.be/stiUBnjKByc)
+* [Cognos Analytics 12: Forecasting](https://youtu.be/hQe8CMTkyq4)
 * [Visualizations - How to forecast time series data (11.2.2)](https://youtu.be/s5hTNFijWfo)
 * [Analyze what-if scenarios using machine learning (11.1.7+)](https://youtu.be/ATX5jBw7R9Q)
 
@@ -70,6 +71,7 @@
 
 ## Metadata modeling
 ### Modeling with Data Modules
+* [Cognos Analytics 12: Data modeling with Data Modules](https://youtu.be/FGgDs7zQpVo)
 * [IBM Cognos Analytics 11.2: Data Modules Overview](https://youtu.be/4diNPQnfWr0)
 * [Data modules - How to prepare data for analysis (11.2.2)](https://youtu.be/7ENTHAo4zIg)
 * [Cognos Analytics 12: Add Uploaded Data](https://youtu.be/PAw_X8OVqgE)
@@ -175,6 +177,17 @@
 ## B6298 - IBM Cognos Analytics - Author Active Reports
 * How to create your first active report (11.0.8+): [part 1](https://youtu.be/2lIIRqwGNe0), [part 2](https://youtu.be/Axp7U5ddexg)
 
+## Notebooks
+* [Cognos Analytics 12: Data Science Integration](https://youtu.be/YLuIZar5jTY)
+* [Cognos Notebooks](https://youtu.be/1qagt0j1zws)
+* Cognos Notebooks installation:
+  * [Part 1: Fresh install of Jupyter Server](https://youtu.be/OEpT36ohFW0)
+  * [Part 2: Securing the Jupyter Server](https://youtu.be/moc8S3rx6og)
+  * [Part 3: Adding Python Packages](https://youtu.be/JqQUdDFwj1E)
+  * [Part 4: Upgrading to the latest Jupyter Server](https://youtu.be/EnJuAwjQOSk)
+  * [Part 5: Connecting a Notebooks server to IBM Cognos Analytics](https://youtu.be/llBuQf7ITWg)
+  * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/yX2KkBsMgnk)
+
 ## IBM Cognos Analytics - Enterprise Administration
 * [Getting Started - Introduction to managing content (11.2.2)](https://youtu.be/kM50M6XGDyA)
 * [Migrate Cognos Analytics Reports](https://youtu.be/0Yyl2HSAjkw)
@@ -185,14 +198,6 @@
 * [How to set up content archival with Cognos Analytics & FileNet](https://youtu.be/h5rzgNsPK68)
 * [Accessing On-Premises Data with IBM Cognos Analytics on Cloud 11.1.2.2+](https://youtu.be/L73E94JJdQI)
 * [How to set up multitenancy](https://youtu.be/JuF29H0Hu9o)
-* [Cognos Notebooks](https://youtu.be/1qagt0j1zws)
-* Cognos Notebooks installation:
-  * [Part 1: Fresh install of Jupyter Server](https://youtu.be/OEpT36ohFW0)
-  * [Part 2: Securing the Jupyter Server](https://youtu.be/moc8S3rx6og)
-  * [Part 3: Adding Python Packages](https://youtu.be/JqQUdDFwj1E)
-  * [Part 4: Upgrading to the latest Jupyter Server](https://youtu.be/EnJuAwjQOSk)
-  * [Part 5: Connecting a Notebooks server to IBM Cognos Analytics](https://youtu.be/llBuQf7ITWg)
-  * [Jupyter Server Installation Tutorial for Windows 10](https://youtu.be/yX2KkBsMgnk)
 * [Dashboards - Collaborating with Microsoft Teams and Cognos Analytics (11.2.3)](https://youtu.be/LMhh8IOj4JM)
 * [Reporting - How to schedule reports (11.2.2)](https://youtu.be/acgNrHbtTCA)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
