@@ -3,6 +3,7 @@
 
 ## Introduction to IBM Cognos Analytics
 * [Cognos Analytics 12: 2 Minute Product Tour](https://youtu.be/0dZLzfvI224)
+* [IBM Cognos Analytics 12: Top 3 Updates You NEED to Know](https://youtu.be/W8U7rwlNsTY)
 * [Getting started - Navigating IBM Cognos Analytics with Watson (11.2.2)](https://youtu.be/4bQuCnWUYwA)
 * [IBM Cognos Analytics: Getting Started in 11.2](https://youtu.be/iRspEToLTwo)
 * [Find, View and Interact with your data using Cognos Analytics](https://youtu.be/uEeF2bwiu8w)
@@ -49,7 +50,7 @@
 * [Cognos Dashboards - Local Data Cache for Improved Performance](https://youtu.be/-BycGkSYf0w)
 ### Sharing content
 * [Dashboards - How to share dashboard content (11.2.2)](https://youtu.be/7L7rPw-tPsg)
-### Assistant panel
+### Assistant
 * [Dashboards - Introduction to the Assistant with dashboards](https://youtu.be/vaWszl6DqgY)
 * [Explorations - How to use time awareness in the Assistant (11.2.2)](https://youtu.be/tYIGhJMSpVQ)
 * [Cognos Analytics 12 AI Assistant - Self Service Experience](https://youtu.be/PrVglccbzvU)
@@ -57,6 +58,7 @@
 * [Define Synonyms in Cognos Analytics Assistant in 1 Minute](https://youtu.be/AhIUID-c5dQ)
 
 ### Insights
+* [IBM Cognos Analytics: Assistant in 60 Seconds](https://youtu.be/7bYNOG4tkzc)
 * [How AI is infused in Cognos Analytics - Use Case](https://youtu.be/VQ3va3GeJJU)
 * [Cognos Analytics NLG Narrative Insights in 1 minute](https://youtu.be/uW--lCh7lWE)
 * [Cognos Analytics 12: Forecasting](https://youtu.be/hQe8CMTkyq4)
@@ -201,6 +203,8 @@
 * [Dashboards - Collaborating with Microsoft Teams and Cognos Analytics (11.2.3)](https://youtu.be/LMhh8IOj4JM)
 * [Reporting - How to schedule reports (11.2.2)](https://youtu.be/acgNrHbtTCA)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
+* [IBM Cognos 11 - Admin | Setup & Configure LDAP Authentication with Apache DS](https://youtu.be/ojVdSQ6F8hw) - OneTouchBI
+* [Migration from Tableau to IBM Cognos Analytics](https://youtu.be/IPGgENgBq1s) - PMsquare
 
 ### Cognos Toolkit
 * [Use Inventory to help plan, optimize and clean up your Cognos upgrade](https://youtu.be/pDbQb1pZI10)
@@ -220,10 +224,6 @@
 ## Developing
 * [How to create themes and extensions (11.0.4)](https://youtu.be/QYGfSYJjqhs)
 * [Cognos dashboard extension example](https://youtu.be/7tBbbnlKZ0E)
-
-## Non-IBM videos
-* [IBM Cognos 11 - Admin | Setup & Configure LDAP Authentication with Apache DS | OneTouchBI](https://youtu.be/ojVdSQ6F8hw)
-* [Migration from Tableau to IBM Cognos Analytics](https://youtu.be/IPGgENgBq1s) - PMsquare
 
 ## More Resources
 * [IBM Cognos Analytics Demos](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics)
