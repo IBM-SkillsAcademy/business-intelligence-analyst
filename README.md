@@ -204,6 +204,9 @@
 * [Reporting - How to schedule reports (11.2.2)](https://youtu.be/acgNrHbtTCA)
 * [How to manage schedules and subscriptions](https://youtu.be/X2EaHCmNvwg)
 * [IBM Cognos 11 - Admin | Setup & Configure LDAP Authentication with Apache DS](https://youtu.be/ojVdSQ6F8hw) - OneTouchBI
+* [Cognos Analytics 12: Content Security](https://youtu.be/i3uz9aQr1Bo)
+
+### Migration
 * [Migration from Tableau to IBM Cognos Analytics](https://youtu.be/IPGgENgBq1s) - PMsquare
 
 ### Cognos Toolkit
